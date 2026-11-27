@@ -1,1 +1,1 @@
-# college-notice-board
+# Campus Announcements
